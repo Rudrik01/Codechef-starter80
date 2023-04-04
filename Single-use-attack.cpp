@@ -17,4 +17,5 @@ int main(){
             cout << 2 + h/x << endl;
         }
     }
+    return 0;
 }
